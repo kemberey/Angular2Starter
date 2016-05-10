@@ -1,4 +1,4 @@
-Starter files for angular2 project
+Gupta Training
 
 1) Open a command prompt in the project's root directory 
 
