@@ -1,6 +1,4 @@
-Gupta Training
-
-1) Open a command prompt in the project's root directory 
+1) Open a command prompt in the project's root directory (APM)
 
 2) Type: `npm install`
     This installs the dependencies as defined in the package.json file.
